@@ -1,0 +1,6 @@
+pymongo
+tensorflow
+numpy
+opencv-python-headless 
+keras
+streamlit
